@@ -1,0 +1,6 @@
+node_modules
+.env*
+.vscode
+.DS_Store
+/server/src/prisma/seed/allWords.json
+/server/src/prisma/database.db
